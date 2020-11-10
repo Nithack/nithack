@@ -1,15 +1,16 @@
 <h1 align='center'> Olá 👋 Meu nome é Andrey Nithack </h1>
 
 <p align='center'>
-No momento a procura de uma realocação como desenvolvedor backend, atualmente estou estudando desenvolvimento de API's com Nodejs, como não possuo experiencia da area estou desenvolvendo pequenas API's para poder suprimir minha necessidade de conhecimento.
+No momento a procura de uma realocação como desenvolvedor backend, atualmente estou estudando desenvolvimento de API's com Nodejs, como não possuo experiencia da area estou desenvolvendo pequenas API's para poder suprimir minha necessidade de conhecimento. <a href="https://github.com/Nithack/nithack/blob/main/andreyNithack.pdf)">Curriculo</a>
+  
 </p>
 <br>
-
 <div align='center'>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nithack&show_icons=true)
 
 </div>
+
 <hr>
 
 
