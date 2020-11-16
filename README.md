@@ -13,6 +13,7 @@ No momento a procura de uma realocação como desenvolvedor backend, atualmente 
 
 <hr>
 
+<img aling="center" src="https://www.codewars.com/users/Nithack/badges/large" alt="codewar">
 
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center"> 
