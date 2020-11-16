@@ -12,9 +12,9 @@ No momento a procura de uma realocação como desenvolvedor backend, atualmente 
 </div>
 
 <hr>
-
-<img aling="center" src="https://www.codewars.com/users/Nithack/badges/large" alt="codewar">
-
+<div align="center">
+<img src="https://www.codewars.com/users/Nithack/badges/large" alt="codewar">
+<div>
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center"> 
 <br>
