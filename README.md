@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá meu nome é Andrey Nithack, sou desenvolvedor backend, entrei na areá em 2021, mais já venho me divertindo em projetos pessoais a alguns anos, meu primeiro projeto foi um servidor de tibia, uma distro em C++ que rodava scripts em Lua =D. Depois disso estudei apenas como passatempo, porem me apaixonei pela área, hoje em dia atuo como programado backend, usando as stacks: java, kotlin, javascript, typescript e paython<br>
+Hello my name is Andrey Nithack, I'm a backend developer, I joined the area in 2021, but I've been having fun in personal projects for a few years, my first project was a tibia server, a C++ distro that ran scripts in Lua =D. After that I studied only as a hobby, but I fell in love with the area, nowadays I work as a backend programmer, using the stacks: java, kotlin, javascript, typescript and paython<br>
 
 
 ## 🌐 Socials:
